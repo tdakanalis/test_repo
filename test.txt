@@ -1,5 +1,6 @@
 this is a test file.modified. !!!
 first change in master
-second change in master after the creation of the demo1 branch
 first change in branch demo1
 second change in branch demo1
+second change in master after the creation of the demo1 branch
+third change in master after the creation of the demo1 branch
