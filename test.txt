@@ -4,3 +4,4 @@ first change in branch demo1
 second change in branch demo1
 second change in master after the creation of the demo1 branch
 third change in master after the creation of the demo1 branch
+forth change in master after the creation of the demo1 branch
